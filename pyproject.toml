@@ -8,7 +8,10 @@ dependencies = [
     "folium>=0.20.0",
     "google-genai>=2.10.0",
     "gtts>=2.5.4",
+    "openpyxl>=3.1.5",
     "streamlit>=1.59.1",
+    "streamlit-autorefresh>=1.0.1",
     "streamlit-folium>=0.27.2",
+    "streamlit-js-eval>=1.0.0",
     "streamlit-mic-recorder>=0.0.8",
 ]
